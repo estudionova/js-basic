@@ -3,7 +3,6 @@ let num1 = 25;
 
 //let num2 = Math.floor(num1);    //arrendondar para baixo
 //let num2 = Math.ceil(num1);    //arrendondar para cima
-//let num2 = Math.ceil(num1);    //arrendondar para cima
 //let num2 = Math.round(num1);  // arrendonda pro mais proximo ( 9.50 arredonda pra cima)
 //let num2 = Math.max(1,2,3,4,5,-10,-50,1500,9,8,7,6);    // pega o maior numero
 //let num2 = Math.min(1,2,3,4,5,-10,-50,1500,9,8,7,6);    // pega o menor numero
